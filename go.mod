@@ -1,10 +1,5 @@
-module github.com/swinton/go-probot
+module github.com/samuelnoguchi/probot
 
-go 1.14
+go 1.16
 
-require (
-	github.com/bradleyfalzon/ghinstallation v1.1.1
-	github.com/google/go-github v17.0.0+incompatible
-	github.com/google/go-querystring v1.0.0 // indirect
-	github.com/gorilla/mux v1.8.0
-)
+require github.com/google/go-github/v35 v35.2.0 // indirect
