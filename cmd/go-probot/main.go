@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/swinton/go-probot/probot"
+	"github.com/samuelnoguchi/go-probot/probot"
 )
 
 func main() {
